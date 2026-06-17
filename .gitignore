@@ -1,3 +1,11 @@
+# Custom targets for Project DataCo Opti
+DataCoSupplyChainDataset.csv
+DescriptionDataCoSupplyChain.csv
+dataco_env/
+.DS_Store
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
